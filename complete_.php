@@ -1,0 +1,4 @@
+<!-- syntactical -->
+<?php
+echo "Hello";
+?>
